@@ -29,10 +29,10 @@ The data is sent to a Node.js backend and stored in a SQLite database.
 ## 📸 Screenshots
 
 - Inserting User Data
-(public/images/s1.png)
+(public/s1.png)
 
 - Account Created
-(public/images/s2.png)
+(public/s2.png)
 
 - Terminal shows backend activity (logs)
-(public/images/s3.png)
+(public/s3.png)
